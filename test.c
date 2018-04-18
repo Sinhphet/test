@@ -4,5 +4,5 @@
 
 void main ()
 int a=0;
-printf("salut voici ta note : %d",a);
+printf("salut voici ta note : %d \n",a);
 }
